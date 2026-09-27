@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-09-27T13:42:08+00:00",
+  "default_status": "missing",
+  "entries": [],
+  "kinds": [],
+  "observation_id": "12be201cc4c3375aa4d205b41e3ac3ef6aaa1e9eb6201aed9313007594ef3612",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-09-27T13:42:08+00:00",
+      "destination": "Human Host:Getting Started",
+      "destination_revision": 470,
+      "reason": "literal-property",
+      "revision": 470,
+      "status": "populated",
+      "title": "Human Host:Getting Started",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AGetting+Started&oldid=470"
+    }
+  ]
+}
