@@ -1,6 +1,6 @@
 # World systems reference
 
-Release: `c8cab53303aa808a64cfca46153681d3f64993d9bc976c49730bf5815d185d8e`.
+Release: `012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a`.
 
 Selected extracted facts. Gameplay verification and complete coverage remain unfinished.
 
