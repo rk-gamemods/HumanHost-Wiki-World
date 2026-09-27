@@ -1,0 +1,108 @@
+{
+  "files": {
+    "README.md": {
+      "bytes": 497,
+      "sha256": "0d4eda80303cfaa74e6a08b8e06a654601564a8869b7cf1bf63570fc0dda6ece"
+    },
+    "reference/index.md": {
+      "bytes": 316,
+      "sha256": "3c92fecfa99648d8504ef1a2082205f4fe2a607b98f0ca4e1c18897d75b954e4"
+    },
+    "reference/time-rule/0001.md": {
+      "bytes": 744,
+      "sha256": "ae78dc567fd81f9fa4c65d1838926574b27aab569c621ee81464a0732f898053"
+    },
+    "reference/weather/0001.md": {
+      "bytes": 28458,
+      "sha256": "7d8f73ac9b0d2d27f517fb0c5e4dc6fdd04c6f9abd9ac8562b3480aada222426"
+    },
+    "reference/world-rule/0001.md": {
+      "bytes": 3583,
+      "sha256": "20eadf8e14a6080ee4f7da5715650fc6c748a357cd5dd6e549ac4b1727d7414f"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1382,
+      "sha256": "3ac454006511e6b4d307cb6556a947c0c4d7ebe3b11173cec7fe2c3db143638d"
+    },
+    "site/data/4111402e02db5845bf51d7eea8a3aa2f906558e63c5f2e9ecf6d530dcd723344.json": {
+      "bytes": 26623,
+      "sha256": "4111402e02db5845bf51d7eea8a3aa2f906558e63c5f2e9ecf6d530dcd723344"
+    },
+    "site/data/6df5c248da08de08d402bdcb15e3fc0fcc07e4c5c838715c6d9fdc65dfdf2c13.json": {
+      "bytes": 54794,
+      "sha256": "6df5c248da08de08d402bdcb15e3fc0fcc07e4c5c838715c6d9fdc65dfdf2c13"
+    },
+    "site/data/82fe9bd991ee1f0c1d15f1099723c6d037b09eca03f62708993289ed381b16c4.json": {
+      "bytes": 82684,
+      "sha256": "82fe9bd991ee1f0c1d15f1099723c6d037b09eca03f62708993289ed381b16c4"
+    },
+    "site/data/8f9be293c6c08bcff12e14a61e0d330ce90693aa6c8ea2ce9a8d4e78ec9f2842.json": {
+      "bytes": 54794,
+      "sha256": "8f9be293c6c08bcff12e14a61e0d330ce90693aa6c8ea2ce9a8d4e78ec9f2842"
+    },
+    "site/data/e595357cb6d3559de347de931770779f5917648b61f164e5b04dac4cfe3ecd96.json": {
+      "bytes": 19690,
+      "sha256": "e595357cb6d3559de347de931770779f5917648b61f164e5b04dac4cfe3ecd96"
+    },
+    "site/data/fce4babdb1736196686b74e1081c9549599fb53f3600ba0fdea591a64d965bb2.json": {
+      "bytes": 13990,
+      "sha256": "fce4babdb1736196686b74e1081c9549599fb53f3600ba0fdea591a64d965bb2"
+    },
+    "site/groups/time-rule/index.html": {
+      "bytes": 1382,
+      "sha256": "3ac454006511e6b4d307cb6556a947c0c4d7ebe3b11173cec7fe2c3db143638d"
+    },
+    "site/groups/weather/index.html": {
+      "bytes": 1382,
+      "sha256": "3ac454006511e6b4d307cb6556a947c0c4d7ebe3b11173cec7fe2c3db143638d"
+    },
+    "site/groups/world-rule/index.html": {
+      "bytes": 1382,
+      "sha256": "3ac454006511e6b4d307cb6556a947c0c4d7ebe3b11173cec7fe2c3db143638d"
+    },
+    "site/index.html": {
+      "bytes": 1382,
+      "sha256": "3ac454006511e6b4d307cb6556a947c0c4d7ebe3b11173cec7fe2c3db143638d"
+    },
+    "site/objects/5f5a5c10153414aae8f41aa2883536bbb4f31d7f7924223f325c77230acdde72.json": {
+      "bytes": 2252,
+      "sha256": "5f5a5c10153414aae8f41aa2883536bbb4f31d7f7924223f325c77230acdde72"
+    },
+    "site/objects/ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9.json": {
+      "bytes": 2252,
+      "sha256": "ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 1371,
+      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+    },
+    "site/reader.json": {
+      "bytes": 4988,
+      "sha256": "e67542958912c0818e56ef3792ae7703f01475cb9f7f8b320120224ae75a689f"
+    },
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
+      "bytes": 4988,
+      "sha256": "e67542958912c0818e56ef3792ae7703f01475cb9f7f8b320120224ae75a689f"
+    },
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
+      "bytes": 4358,
+      "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
+    },
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
+      "bytes": 15690,
+      "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "repository_id": "world-systems",
+  "schema_version": 1
+}
