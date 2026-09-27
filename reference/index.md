@@ -1,8 +1,8 @@
 # World systems reference
 
-Release: `dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6`.
+Release: `fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523`.
 
-Selected extracted facts. Gameplay verification and complete coverage remain unfinished.
+Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
 - [time-rule/0001.md](time-rule/0001.md)
 - [weather/0001.md](weather/0001.md)
