@@ -1,24 +1,40 @@
 {
+  "capacity_objects": [
+    "site/data/4111402e02db5845bf51d7eea8a3aa2f906558e63c5f2e9ecf6d530dcd723344.json",
+    "site/data/6df5c248da08de08d402bdcb15e3fc0fcc07e4c5c838715c6d9fdc65dfdf2c13.json",
+    "site/data/82fe9bd991ee1f0c1d15f1099723c6d037b09eca03f62708993289ed381b16c4.json",
+    "site/data/8f9be293c6c08bcff12e14a61e0d330ce90693aa6c8ea2ce9a8d4e78ec9f2842.json",
+    "site/data/e595357cb6d3559de347de931770779f5917648b61f164e5b04dac4cfe3ecd96.json",
+    "site/data/fce4babdb1736196686b74e1081c9549599fb53f3600ba0fdea591a64d965bb2.json",
+    "site/objects/5f5a5c10153414aae8f41aa2883536bbb4f31d7f7924223f325c77230acdde72.json",
+    "site/objects/ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9.json",
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
+  ],
   "files": {
     "README.md": {
       "bytes": 497,
-      "sha256": "0e4bb9999d7393029953ece1fd9b7b27853f35b94a1683c057838af787cddcac"
+      "sha256": "2ea939eb72bfb9e5bd9fcd0cef861375bb55088d95448fcab541c382d9fddec6"
     },
     "reference/index.md": {
       "bytes": 316,
-      "sha256": "668fea75f46cf6c80f0437346dd2e6e6c66a7fc48a19992c368657562ddbdf77"
+      "sha256": "e38382f8e409ad469a0e5752fea65a055244e7262bc906f5768d01054601a6fb"
     },
     "reference/time-rule/0001.md": {
       "bytes": 744,
-      "sha256": "ff734aba91dacec933a6b3d5113949114f4993fb799c2883f2892cb8a4505fb0"
+      "sha256": "d7f0f488764efbbbaea92f9e2c304f5b6fed5e21f316c7dd3617cde44d6a6874"
     },
     "reference/weather/0001.md": {
       "bytes": 28458,
-      "sha256": "0ce04464bedebe51d8a2f6a9b3e9572add73d6f6ff5cbdca0ca832b439b74fc6"
+      "sha256": "e737d474eea8bae999aa20a7a508ae773130fdb10f7542082886de12bcd83930"
     },
     "reference/world-rule/0001.md": {
       "bytes": 3583,
-      "sha256": "76fb23a3a2d34fbd4c181507c4d18c84614229154c2f9ea29ae91301cad8657c"
+      "sha256": "f4d88fb87c2c3fa345bf9993ab7524193a2b324cd227b47c11d28f8324b83906"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -81,12 +97,12 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1966,
-      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
+      "bytes": 3622,
+      "sha256": "078e32e0db8db963f2c2af559a96e63f7c0bb22622606a927a893019405b1045"
     },
     "site/reader.json": {
       "bytes": 4988,
-      "sha256": "2eeed457430b7e40f48775b0205b459d266672c157114a48c816dafd8459ae37"
+      "sha256": "00a52cfd852adb3ceae3e4dd89073afe7f687690239edd0f4fd6c515f14f105f"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4988,
@@ -95,6 +111,14 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
       "bytes": 4988,
       "sha256": "2eeed457430b7e40f48775b0205b459d266672c157114a48c816dafd8459ae37"
+    },
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json": {
+      "bytes": 4988,
+      "sha256": "00a52cfd852adb3ceae3e4dd89073afe7f687690239edd0f4fd6c515f14f105f"
+    },
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js": {
+      "bytes": 15795,
+      "sha256": "a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -106,7 +130,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
+  "release_id": "d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80",
   "repository_id": "world-systems",
   "schema_version": 1
 }
