@@ -1,0 +1,128 @@
+{
+  "candidate_id": "a5669d6f402a4b29cf9a017af1a1c535eaff627ece42bcfa9eeeec7f3a9ca5c0",
+  "default_snapshot": "build-25548639-a7d9406a5bfb",
+  "official_links": [
+    {
+      "title": "Human Host on Steam",
+      "url": "https://store.steampowered.com/app/2393970/Human_Host/"
+    },
+    {
+      "title": "Recognized community wiki",
+      "url": "https://wiki.nerdwerx.io/index.php/Human_Host:Main_Page"
+    }
+  ],
+  "publication": "prepared-git-release",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
+  "runtime": {
+    "css": "runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
+    "js": "runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
+  },
+  "schema_version": 1,
+  "snapshots": {
+    "build-25548639-8f1263c7d28f": {
+      "bytes": 2252,
+      "path": "objects/ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9.json",
+      "sha256": "ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9"
+    },
+    "build-25548639-a7d9406a5bfb": {
+      "bytes": 2252,
+      "path": "objects/5f5a5c10153414aae8f41aa2883536bbb4f31d7f7924223f325c77230acdde72.json",
+      "sha256": "5f5a5c10153414aae8f41aa2883536bbb4f31d7f7924223f325c77230acdde72"
+    }
+  },
+  "topic": "world-systems",
+  "topics": [
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki/",
+      "coverage": "Topic overview, curated guides, version selection, coverage and release history",
+      "id": "hub",
+      "title": "Start here"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Items/",
+      "coverage": "All known items, weapons, armor, tools, consumables, materials and their properties",
+      "id": "items-equipment",
+      "title": "Items and equipment"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Loot/",
+      "coverage": "Loot eligibility, tables, containers, drops, acquisition conditions and source-to-item relationships",
+      "id": "loot-acquisition",
+      "title": "Loot and acquisition"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Crafting/",
+      "coverage": "Recipes, ingredients, workbenches, processing, repairs and disassembly",
+      "id": "crafting-processing",
+      "title": "Crafting and processing"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Combat/",
+      "coverage": "Damage calculations, armor interactions, body-part effects and weapon mechanics",
+      "id": "combat",
+      "title": "Combat"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Creatures/",
+      "coverage": "Creature variants, perception, movement, targeting and attacks",
+      "id": "creatures-ai",
+      "title": "Creatures and AI"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Spawning/",
+      "coverage": "Spawn rules, population groups, distances, despawning and cleanup",
+      "id": "spawning-populations",
+      "title": "Spawning and populations"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Survival/",
+      "coverage": "Progression, buffs, health, stamina, hunger, thirst and status effects",
+      "id": "skills-survival",
+      "title": "Skills and survival"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
+      "coverage": "Regional resources, items, creatures and loot; unique or exclusive occurrences only where verified",
+      "id": "biomes-resources",
+      "title": "Biomes and resources"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Construction/",
+      "coverage": "Building pieces, materials, durability, destruction and structural relationships",
+      "id": "construction",
+      "title": "Construction"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Vehicles/",
+      "coverage": "Vehicle families, parts, assembly, controls and operating mechanics",
+      "id": "vehicles",
+      "title": "Vehicles"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-World/",
+      "coverage": "Weather, time, environmental conditions and world organization",
+      "id": "world-systems",
+      "title": "World systems"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Technical/",
+      "coverage": "Every asset identity, component types, configuration fields, tags, layers and visible coverage gaps",
+      "id": "technical-reference",
+      "title": "Technical reference"
+    }
+  ],
+  "versions": [
+    {
+      "build_id": "25548639",
+      "identity_run": "b33496da03b7d2bfe99ad740948273ccd153aeff2295b9a39029a703f4d64ca3",
+      "observations": 8146,
+      "snapshot_id": "build-25548639-a7d9406a5bfb"
+    },
+    {
+      "build_id": "25548639",
+      "identity_run": "91eb19d01f48591ff3b201ff7b3842a175e6cf49d42e92510d2644771c6071e0",
+      "observations": 8146,
+      "snapshot_id": "build-25548639-8f1263c7d28f"
+    }
+  ]
+}
