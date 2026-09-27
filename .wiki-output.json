@@ -10,31 +10,33 @@
     "site/objects/ebb6f75859b26e235f8148a89add66fb0b6ccc9ceb3d878896e3c40df4094ce9.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
+    "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
+    "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
       "bytes": 497,
-      "sha256": "2ea939eb72bfb9e5bd9fcd0cef861375bb55088d95448fcab541c382d9fddec6"
+      "sha256": "adce8d09cc01f721ffd870a487965a0c414ec496d9d38b06a112b48f527ccd4f"
     },
     "reference/index.md": {
       "bytes": 316,
-      "sha256": "e38382f8e409ad469a0e5752fea65a055244e7262bc906f5768d01054601a6fb"
+      "sha256": "3f8720828a64efcc1606e11a36f777434226a4ff2afcd05152f8c24f22c25279"
     },
     "reference/time-rule/0001.md": {
       "bytes": 744,
-      "sha256": "d7f0f488764efbbbaea92f9e2c304f5b6fed5e21f316c7dd3617cde44d6a6874"
+      "sha256": "b595f462b5a98166ca2b4a0e8b8da85638d1bdbd646a32c545020e07eafac2c4"
     },
     "reference/weather/0001.md": {
       "bytes": 28458,
-      "sha256": "e737d474eea8bae999aa20a7a508ae773130fdb10f7542082886de12bcd83930"
+      "sha256": "061cc49af6fe558ac21108740034d76681cd67cc0160f9627aa500814b95749a"
     },
     "reference/world-rule/0001.md": {
       "bytes": 3583,
-      "sha256": "f4d88fb87c2c3fa345bf9993ab7524193a2b324cd227b47c11d28f8324b83906"
+      "sha256": "4d840788c71553602c98c485d61bd8098c3e29fa70707ccf92e0079ae53a7c03"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -101,8 +103,8 @@
       "sha256": "078e32e0db8db963f2c2af559a96e63f7c0bb22622606a927a893019405b1045"
     },
     "site/reader.json": {
-      "bytes": 4988,
-      "sha256": "00a52cfd852adb3ceae3e4dd89073afe7f687690239edd0f4fd6c515f14f105f"
+      "bytes": 5036,
+      "sha256": "389db21f549ccb61572f5c560ea4596faa9abdbe02aa01903eadd5d31885c630"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4988,
@@ -111,6 +113,10 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
       "bytes": 4988,
       "sha256": "2eeed457430b7e40f48775b0205b459d266672c157114a48c816dafd8459ae37"
+    },
+    "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
+      "bytes": 5036,
+      "sha256": "389db21f549ccb61572f5c560ea4596faa9abdbe02aa01903eadd5d31885c630"
     },
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json": {
       "bytes": 4988,
@@ -124,13 +130,17 @@
       "bytes": 4358,
       "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
     },
+    "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js": {
+      "bytes": 17501,
+      "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
+    },
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
       "bytes": 15690,
       "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80",
+  "release_id": "19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709",
   "repository_id": "world-systems",
   "schema_version": 1
 }
