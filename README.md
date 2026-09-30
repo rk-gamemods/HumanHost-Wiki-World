@@ -8,6 +8,6 @@ An unofficial community project. Not affiliated with or endorsed by Virtual Matr
 
 Browse the [generated reference](reference/index.md) for selected captured data; serialized facts are not runtime-verified gameplay claims.
 
-Current prepared release: `53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d`. Publication is tracked separately by the hub.
+Current prepared release: `915ada20008ca002299b60b9ab3c09d56ab3c9906cbdb0174170d1a1b032f214`. Publication is tracked separately by the hub.
 
 Generated files are recorded in `.wiki-output.json`. Put authored explanations outside the generated `site/` and `reference/` directories.
