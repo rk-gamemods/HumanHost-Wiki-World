@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-09-30T02:38:11+00:00",
+    "checked_at": "2026-09-30T01:26:56+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "398c79048e446854f26ec7a89085d89e7920ce43fa0872e013aa73ed6cab3488"
@@ -23,12 +23,12 @@
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "b1bcc2fc9594554d87ce552e4aa695d0ce4d18ddb9e27260e56ce5020ae005c1",
+  "candidate_id": "b758872eaddee3096349d1993e01941505747c453a2ea1dde8564c8fbd194116",
   "default_snapshot": "build-25606549-f1e8b4a4a8b8",
   "external_articles": {
     "bytes": 616,
-    "path": "objects/f28740b01430a1b5a62459d8774700c502d3c3d4d4a9e5546bfdd97f8728bce0.json",
-    "sha256": "f28740b01430a1b5a62459d8774700c502d3c3d4d4a9e5546bfdd97f8728bce0"
+    "path": "objects/b726f0ec8f1faa5cf5527916e5ff007dfd3d1c6ca40de4d6f819f0930756ab91.json",
+    "sha256": "b726f0ec8f1faa5cf5527916e5ff007dfd3d1c6ca40de4d6f819f0930756ab91"
   },
   "features": [
     "shard-directories-v1",
@@ -100,10 +100,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "4f077e3e0042330af50524313d2bd26b96c1b17f74b1902da8c66576cd24941a",
+  "release_id": "915ada20008ca002299b60b9ab3c09d56ab3c9906cbdb0174170d1a1b032f214",
   "runtime": {
-    "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
-    "js": "runtime/e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37/reader.js"
+    "css": "runtime/50542bb908d40323ca201f3fbab457f0ac0195c5b45f1b0f29e4d483178d9e62/reader.css",
+    "js": "runtime/041ca3fbad76064c4fc68b3cab56c264a6461b7170c468ea7827fda4c11f0226/reader.js"
   },
   "schema_version": 1,
   "site": {
