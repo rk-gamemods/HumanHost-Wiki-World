@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-10-05T07:23:41+00:00",
+    "checked_at": "2026-10-08T04:13:14+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -10,25 +10,25 @@
     "observation": {
       "app_id": "2393970",
       "branch": "public",
-      "branch_updated_at_unix": 1791150020,
-      "build_id": "25716018",
+      "branch_updated_at_unix": 1791291574,
+      "build_id": "25752290",
       "client_sha256": "88f791368cdb3a8c82b84d3ea53f25c18c33b425a0560d5a3f851bd709b35580",
       "depot_manifests": {
-        "2393972": "6753512564671612779"
+        "2393972": "2750557093100430881"
       },
-      "response_sha256": "4cdaf046ee5b874391b3998c5521107081277acedaf9f14d67ea76375d82f46d",
+      "response_sha256": "e0d35066fd26aed650247f501ee4e520be716300f49758fa97c55e8b51a6817d",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "ddcac36d4800f3d3b4613c9730015ce7daa81c264f1fc237201c1a2dfb436e8d",
-  "default_snapshot": "build-25712240-d7c49874ae12",
+  "candidate_id": "681cf44c0b6e194334af523e7ccb80268684caafb44c0d09918fe288fec72f6b",
+  "default_snapshot": "build-25752290-072c9ca90af0",
   "external_articles": {
     "bytes": 616,
-    "path": "objects/f9efcc3e555945909806b83546275ae4b630f2da614421ad00e51b5c6fe4cad0.json",
-    "sha256": "f9efcc3e555945909806b83546275ae4b630f2da614421ad00e51b5c6fe4cad0"
+    "path": "objects/e9b1f095e147488932004f6e9269238297dcc4811e785b786eec42f8612b28c9.json",
+    "sha256": "e9b1f095e147488932004f6e9269238297dcc4811e785b786eec42f8612b28c9"
   },
   "features": [
     "shard-directories-v1",
@@ -100,10 +100,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "bfdb594679060c4c4edcc7ac3e5530b6bf47673037f761e298d7ac2fb080db13",
+  "release_id": "6207400cdf3a24ef64685d9319cc4471bbf1b314d8bbb3a0d5fb732fd8e3ec72",
   "runtime": {
-    "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
-    "js": "runtime/4c73c7ebeec6a74fb82bec88eeea434f70119d4f75cd3b74cbb42e71d0c7d9c9/reader.js"
+    "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
+    "js": "runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js"
   },
   "schema_version": 1,
   "site": {
@@ -275,6 +275,11 @@
       "bytes": 105239,
       "path": "objects/c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49.json",
       "sha256": "c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49"
+    },
+    "build-25752290-072c9ca90af0": {
+      "bytes": 105572,
+      "path": "objects/b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b.json",
+      "sha256": "b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b"
     }
   },
   "topic": "world-systems",
@@ -359,6 +364,28 @@
     }
   ],
   "versions": [
+    {
+      "build_id": "25752290",
+      "game_version": "0.8.319",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "cdcbb8d5cd79aaf590c28e3e33a7d3656ab1be7d2a717b4607a69cdb762967bd",
+      "observations": 27283,
+      "snapshot_id": "build-25752290-072c9ca90af0"
+    },
     {
       "build_id": "25712240",
       "game_version": "0.8.3182",
