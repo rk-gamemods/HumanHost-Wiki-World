@@ -23,7 +23,7 @@
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "30f9d7285d309d981ed35fed01b60a9f3c090c7063c8308e17b1e46aea2c92da",
+  "candidate_id": "1315bae5fc502976745054e6dac0b4ca5da4ad87f79012bf60a5cf7a77d53510",
   "default_snapshot": "build-25752290-072c9ca90af0",
   "external_articles": {
     "bytes": 616,
@@ -100,10 +100,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "85460ed704f517755552c56d6ed194f9091323d9775aec9c6fd010f19bd3838e",
+  "release_id": "7f57527ba333c349fc353f81ef85ba91cfa6887abf476871498ae1f5b54fcb33",
   "runtime": {
     "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
-    "js": "runtime/4c73c7ebeec6a74fb82bec88eeea434f70119d4f75cd3b74cbb42e71d0c7d9c9/reader.js"
+    "js": "runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js"
   },
   "schema_version": 1,
   "site": {

@@ -1,6 +1,6 @@
 # World systems reference
 
-Release: `85460ed704f517755552c56d6ed194f9091323d9775aec9c6fd010f19bd3838e`.
+Release: `7f57527ba333c349fc353f81ef85ba91cfa6887abf476871498ae1f5b54fcb33`.
 
 Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
