@@ -1,6 +1,6 @@
 # World systems reference
 
-Release: `97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb`.
+Release: `a86bacd812a208d713372718739de2b46991fb173c4d3914be2efdd948c6a7d1`.
 
 Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
@@ -8,3 +8,4 @@ Selected extracted facts. Runtime gameplay verification is unknown unless a scop
 - [weather/0001.md](weather/0001.md)
 - [world-rule/0001.md](world-rule/0001.md)
 - [world-rule/0002.md](world-rule/0002.md)
+- [world-rule/0003.md](world-rule/0003.md)

@@ -23,7 +23,7 @@
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "4546792df98b60bc74af1b6dbffd72369ef458330415d4faf4ff0082117c0ccc",
+  "candidate_id": "75c7f3d574daf0ed79f1b16526c826b96beeff1a380bace7ef94a49a18aff712",
   "default_snapshot": "build-25986463-2b4e884f2e32",
   "entrypoints": {
     "biomes-resources": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
@@ -115,7 +115,7 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb",
+  "release_id": "a86bacd812a208d713372718739de2b46991fb173c4d3914be2efdd948c6a7d1",
   "runtime": {
     "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
     "js": "runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js"
@@ -297,9 +297,9 @@
       "sha256": "b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b"
     },
     "build-25986463-2b4e884f2e32": {
-      "bytes": 64224,
-      "path": "objects/c7158545d3a299b0cebea35ab8e1093db434bc1746e3d40708988d78eebe9e33.json",
-      "sha256": "c7158545d3a299b0cebea35ab8e1093db434bc1746e3d40708988d78eebe9e33"
+      "bytes": 103567,
+      "path": "objects/411ead2ed2747ccf651199049d25b4608699d4713a90e08fa8db6c9a00ba6515.json",
+      "sha256": "411ead2ed2747ccf651199049d25b4608699d4713a90e08fa8db6c9a00ba6515"
     }
   },
   "topic": "world-systems",
@@ -402,8 +402,8 @@
           "terra block"
         ]
       },
-      "identity_run": "a7b3777c43f229a39ea1903ae391531e5f3e5d573818a2e58d6e54d2f7979742",
-      "observations": 27194,
+      "identity_run": "74943e71c85d02ec8969c6bb7a9fcd2f46dfc03585a15f39c21eb45e39ea9b04",
+      "observations": 27304,
       "snapshot_id": "build-25986463-2b4e884f2e32"
     },
     {
