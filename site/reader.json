@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-10-24T15:43:27+00:00",
+    "checked_at": "2026-11-07T17:45:31+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -10,21 +10,21 @@
     "observation": {
       "app_id": "2393970",
       "branch": "public",
-      "branch_updated_at_unix": 1792839690,
-      "build_id": "26180432",
+      "branch_updated_at_unix": 1794062983,
+      "build_id": "26507141",
       "client_sha256": "7baf77927639793e11b2a02ec2fd6d9114c95432be2f23a3225e274732255cf4",
       "depot_manifests": {
-        "2393972": "8153456422855210349"
+        "2393972": "8638053949495181884"
       },
-      "response_sha256": "04013d9e23af31f690bd3f4c37909f368f76be470f6d5fced8d81f1c1a9ad373",
+      "response_sha256": "ab7ee60c770db439e1057b23dc349339290394cf088dcd8d9beb433810d9f638",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "c049a3a9f6a58b55a2c6e860f7f5a6c6cbed8137aa44cfca9672e082e3a4c26c",
-  "default_snapshot": "build-26180432-202c27fe16cb",
+  "candidate_id": "062d5237df6a2ce4d93edbfdf68824e00478105ffd1811304e43ecb1d3dd756b",
+  "default_snapshot": "build-26507141-c9f85a54326a",
   "entrypoints": {
     "biomes-resources": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
     "combat": "https://rk-gamemods.github.io/HumanHost-Wiki-Combat/",
@@ -42,8 +42,8 @@
   },
   "external_articles": {
     "bytes": 616,
-    "path": "objects/cd88aacf52a5fc590fc3373bb46e0d8f0bb084ec9650441eb415a846a71c9c71.json",
-    "sha256": "cd88aacf52a5fc590fc3373bb46e0d8f0bb084ec9650441eb415a846a71c9c71"
+    "path": "objects/bce235ddf02501d43e2c68e891f1416af74a9f33ca3e478d5589aa75ecb81763.json",
+    "sha256": "bce235ddf02501d43e2c68e891f1416af74a9f33ca3e478d5589aa75ecb81763"
   },
   "features": [
     "shard-directories-v1",
@@ -115,7 +115,7 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "48488e690f58db3bd9824c43bd309a73b128f5417715bf80de79a5ee9a0b00a2",
+  "release_id": "02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031",
   "runtime": {
     "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
     "js": "runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js"
@@ -305,6 +305,11 @@
       "bytes": 106233,
       "path": "objects/8b84c87a4c08ca93db338a8c337a256110126f0497ae0740313cbee12936ad9c.json",
       "sha256": "8b84c87a4c08ca93db338a8c337a256110126f0497ae0740313cbee12936ad9c"
+    },
+    "build-26507141-c9f85a54326a": {
+      "bytes": 102578,
+      "path": "objects/4d29cf13bcad06e4ffb6e796302e63ce8355053bd712ab3204651d1b2b435479.json",
+      "sha256": "4d29cf13bcad06e4ffb6e796302e63ce8355053bd712ab3204651d1b2b435479"
     }
   },
   "topic": "world-systems",
@@ -389,6 +394,28 @@
     }
   ],
   "versions": [
+    {
+      "build_id": "26507141",
+      "game_version": "0.8.330",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "592816caa7da4b7259195896364afd8a7bf503f3b3eb16a840a55892ca6f11b1",
+      "observations": 27329,
+      "snapshot_id": "build-26507141-c9f85a54326a"
+    },
     {
       "build_id": "26180432",
       "game_version": "0.8.326",
