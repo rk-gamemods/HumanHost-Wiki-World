@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-10-16T14:58:39+00:00",
+    "checked_at": "2026-11-08T01:52:07+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -10,21 +10,21 @@
     "observation": {
       "app_id": "2393970",
       "branch": "public",
-      "branch_updated_at_unix": 1792153542,
-      "build_id": "25986463",
-      "client_sha256": "e9af93bc48cffae28ef39f1661e295b1b13cf17883b64081eab4d77451e82ac2",
+      "branch_updated_at_unix": 1794062983,
+      "build_id": "26507141",
+      "client_sha256": "7baf77927639793e11b2a02ec2fd6d9114c95432be2f23a3225e274732255cf4",
       "depot_manifests": {
-        "2393972": "4807052833908504609"
+        "2393972": "8638053949495181884"
       },
-      "response_sha256": "39eda42eb395030ec9e50f3bb2734f5e66758b5b84122a1e7aaf2487af7b88bb",
+      "response_sha256": "5e12335abaee9c99cbf45ba7b8a942d15e46f1e7e7080490556fd60a7f7beffe",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "4546792df98b60bc74af1b6dbffd72369ef458330415d4faf4ff0082117c0ccc",
-  "default_snapshot": "build-25986463-2b4e884f2e32",
+  "candidate_id": "5dd00385a2b4ed5bbb01758ae626028f472321258badab72a9c5892788afa0e0",
+  "default_snapshot": "build-26507141-c9f85a54326a",
   "entrypoints": {
     "biomes-resources": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
     "combat": "https://rk-gamemods.github.io/HumanHost-Wiki-Combat/",
@@ -42,8 +42,8 @@
   },
   "external_articles": {
     "bytes": 616,
-    "path": "objects/43589d829908d22a6014b91b0a42e9670edde295337b8ad1e7557b7379ea741c.json",
-    "sha256": "43589d829908d22a6014b91b0a42e9670edde295337b8ad1e7557b7379ea741c"
+    "path": "objects/78f9f223790b6634e0cd3d652e48e0bda5119b3ff49dc1b13316d9718337748d.json",
+    "sha256": "78f9f223790b6634e0cd3d652e48e0bda5119b3ff49dc1b13316d9718337748d"
   },
   "features": [
     "shard-directories-v1",
@@ -115,10 +115,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb",
+  "release_id": "a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232",
   "runtime": {
     "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
-    "js": "runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js"
+    "js": "runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"
   },
   "schema_version": 1,
   "site": {
@@ -251,55 +251,10 @@
     "typography": "current"
   },
   "snapshots": {
-    "build-25548639-0bf00fe33781": {
-      "bytes": 97853,
-      "path": "objects/e77d6552a534cd56c853fcb8da1d658a6923bff500766051f8f6bd3a59ef531c.json",
-      "sha256": "e77d6552a534cd56c853fcb8da1d658a6923bff500766051f8f6bd3a59ef531c"
-    },
-    "build-25548639-1080b929da89": {
-      "bytes": 102891,
-      "path": "objects/bbdf894cc10b52c815daa3bec2b6e2c233f5586dfc90b729cb4db1ec66e63acb.json",
-      "sha256": "bbdf894cc10b52c815daa3bec2b6e2c233f5586dfc90b729cb4db1ec66e63acb"
-    },
-    "build-25548639-8f1263c7d28f": {
-      "bytes": 25067,
-      "path": "objects/778ddcc6a0371b64ce9b8facf4a95b975a7e6b3398ab4b8fb6d4eaff05df2607.json",
-      "sha256": "778ddcc6a0371b64ce9b8facf4a95b975a7e6b3398ab4b8fb6d4eaff05df2607"
-    },
-    "build-25548639-a7d9406a5bfb": {
-      "bytes": 25067,
-      "path": "objects/3fe3060019a184cba2d6cf7ae1cd4646cc74a49f47694c1eb64d5bc3148d6d7b.json",
-      "sha256": "3fe3060019a184cba2d6cf7ae1cd4646cc74a49f47694c1eb64d5bc3148d6d7b"
-    },
-    "build-25587699-a399133f7ca4": {
-      "bytes": 103561,
-      "path": "objects/abb2d419eac5bb48a83f5c2bd9647fbaa161de3c21c47735efe2b1a4a099cc49.json",
-      "sha256": "abb2d419eac5bb48a83f5c2bd9647fbaa161de3c21c47735efe2b1a4a099cc49"
-    },
-    "build-25606549-f1e8b4a4a8b8": {
-      "bytes": 103901,
-      "path": "objects/621d38972b7f09c6b65d86ab76f07c15231611f97cc702c1d2a98576ca29e7b6.json",
-      "sha256": "621d38972b7f09c6b65d86ab76f07c15231611f97cc702c1d2a98576ca29e7b6"
-    },
-    "build-25675256-8764ea7be0f8": {
-      "bytes": 103898,
-      "path": "objects/6491b6476dbe94770536f677a79c0951307c10a6da9722c3dab365f954ef3fff.json",
-      "sha256": "6491b6476dbe94770536f677a79c0951307c10a6da9722c3dab365f954ef3fff"
-    },
-    "build-25712240-d7c49874ae12": {
-      "bytes": 105239,
-      "path": "objects/c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49.json",
-      "sha256": "c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49"
-    },
-    "build-25752290-072c9ca90af0": {
-      "bytes": 105572,
-      "path": "objects/b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b.json",
-      "sha256": "b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b"
-    },
-    "build-25986463-2b4e884f2e32": {
-      "bytes": 64224,
-      "path": "objects/c7158545d3a299b0cebea35ab8e1093db434bc1746e3d40708988d78eebe9e33.json",
-      "sha256": "c7158545d3a299b0cebea35ab8e1093db434bc1746e3d40708988d78eebe9e33"
+    "build-26507141-c9f85a54326a": {
+      "bytes": 3112,
+      "path": "objects/e71bc12df47021f5f9d84d81f6ae5c43dc29ebd4a4a96fbc7f68984db47aec5e.json",
+      "sha256": "e71bc12df47021f5f9d84d81f6ae5c43dc29ebd4a4a96fbc7f68984db47aec5e"
     }
   },
   "topic": "world-systems",
@@ -385,8 +340,8 @@
   ],
   "versions": [
     {
-      "build_id": "25986463",
-      "game_version": "0.8.323",
+      "build_id": "26507141",
+      "game_version": "0.8.330",
       "guides": {
         "count": 4,
         "dropped_links": 0,
@@ -402,253 +357,9 @@
           "terra block"
         ]
       },
-      "identity_run": "a7b3777c43f229a39ea1903ae391531e5f3e5d573818a2e58d6e54d2f7979742",
-      "observations": 27194,
-      "snapshot_id": "build-25986463-2b4e884f2e32"
-    },
-    {
-      "build_id": "25752290",
-      "game_version": "0.8.319",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "inactive"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "cdcbb8d5cd79aaf590c28e3e33a7d3656ab1be7d2a717b4607a69cdb762967bd",
-      "observations": 27283,
-      "snapshot_id": "build-25752290-072c9ca90af0"
-    },
-    {
-      "build_id": "25712240",
-      "game_version": "0.8.3182",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "inactive"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "27b1e739058de950b67872e6783eeaa5c3c872e11e1dcf073fca21bc1d9827a1",
-      "observations": 27283,
-      "snapshot_id": "build-25712240-d7c49874ae12"
-    },
-    {
-      "build_id": "25675256",
-      "game_version": "0.8.318",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "inactive"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "23d4524096cae8433d4326451537395e8b8954cce620cc10c3b26f3579a44ba4",
-      "observations": 27274,
-      "snapshot_id": "build-25675256-8764ea7be0f8"
-    },
-    {
-      "build_id": "25606549",
-      "game_version": "0.8.316",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "inactive"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "bf40b37c053c28a1b1b623e0ad756928de048eab62343aef19f3f1e09ac93a71",
-      "observations": 27273,
-      "snapshot_id": "build-25606549-f1e8b4a4a8b8"
-    },
-    {
-      "build_id": "25587699",
-      "game_version": "0.8.316",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "manager-object-missing"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "3e1a9c3e28254e28d37010c955af3af42259f7cc445ba0ccb26ac969ab4ff0e4",
-      "observations": 27273,
-      "snapshot_id": "build-25587699-a399133f7ca4"
-    },
-    {
-      "build_id": "25548639",
-      "game_version": "0.8.315",
-      "guides": {
-        "count": 4,
-        "dropped_links": 0,
-        "errors": [],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "manager-object-missing"
-          }
-        },
-        "other_scenery": [
-          "terra block"
-        ]
-      },
-      "identity_run": "ec92c7f62b105018cc6be206c11c7bad3d467cf3499c6432eb1e069f78e7a1c9",
-      "observations": 27273,
-      "snapshot_id": "build-25548639-1080b929da89"
-    },
-    {
-      "build_id": "25548639",
-      "game_version": "0.8.315",
-      "guides": {
-        "count": 3,
-        "dropped_links": 0,
-        "errors": [
-          {
-            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
-            "id": "choosing-a-weapon"
-          }
-        ],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "manager-object-missing"
-          }
-        },
-        "other_scenery": [
-          "terra block",
-          "torch build"
-        ]
-      },
-      "identity_run": "18035d0ec8ccb989e8acaa62068acafc79b47f6990beb5dd8b8b7613580e536a",
-      "observations": 25363,
-      "snapshot_id": "build-25548639-0bf00fe33781"
-    },
-    {
-      "build_id": "25548639",
-      "game_version": null,
-      "guides": {
-        "count": 0,
-        "dropped_links": 0,
-        "errors": [
-          {
-            "error": "guide getting-started section first-materials block 1 (sentence): required query returned no content",
-            "id": "getting-started"
-          },
-          {
-            "error": "guide progression-by-biome section how-the-world-is-laid-out block 0 (sentence): required query returned no content",
-            "id": "progression-by-biome"
-          },
-          {
-            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
-            "id": "choosing-a-weapon"
-          },
-          {
-            "error": "guide crafting-stations section bench-0 block 0 (sentence): required query returned no content",
-            "id": "crafting-stations"
-          }
-        ],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "manager-object-missing"
-          }
-        },
-        "other_scenery": [
-          "terra block",
-          "torch build",
-          "vine monstera",
-          "weed apo"
-        ]
-      },
-      "identity_run": "b33496da03b7d2bfe99ad740948273ccd153aeff2295b9a39029a703f4d64ca3",
-      "observations": 8146,
-      "snapshot_id": "build-25548639-a7d9406a5bfb"
-    },
-    {
-      "build_id": "25548639",
-      "game_version": null,
-      "guides": {
-        "count": 0,
-        "dropped_links": 0,
-        "errors": [
-          {
-            "error": "guide getting-started section first-materials block 1 (sentence): required query returned no content",
-            "id": "getting-started"
-          },
-          {
-            "error": "guide progression-by-biome section how-the-world-is-laid-out block 0 (sentence): required query returned no content",
-            "id": "progression-by-biome"
-          },
-          {
-            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
-            "id": "choosing-a-weapon"
-          },
-          {
-            "error": "guide crafting-stations section bench-0 block 0 (sentence): required query returned no content",
-            "id": "crafting-stations"
-          }
-        ],
-        "features": {
-          "merchants": {
-            "live": false,
-            "manager_object": "Merchant_Mgr",
-            "status": "manager-object-missing"
-          }
-        },
-        "other_scenery": [
-          "terra block",
-          "torch build",
-          "vine monstera",
-          "weed apo"
-        ]
-      },
-      "identity_run": "91eb19d01f48591ff3b201ff7b3842a175e6cf49d42e92510d2644771c6071e0",
-      "observations": 8146,
-      "snapshot_id": "build-25548639-8f1263c7d28f"
+      "identity_run": "592816caa7da4b7259195896364afd8a7bf503f3b3eb16a840a55892ca6f11b1",
+      "observations": 27329,
+      "snapshot_id": "build-26507141-c9f85a54326a"
     }
   ]
 }

@@ -115,7 +115,7 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "96ae38f0498340d7111d27a7f2ead19601b607554c2abc3ec196a68d6ce99e7b",
+  "release_id": "a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232",
   "runtime": {
     "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
     "js": "runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"
