@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-11-07T23:03:08+00:00",
+    "checked_at": "2026-11-08T01:52:07+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -16,14 +16,14 @@
       "depot_manifests": {
         "2393972": "8638053949495181884"
       },
-      "response_sha256": "97882dbaf5f8a8c59a98be338e677672f648010e39d1843179cbf7c612272948",
+      "response_sha256": "5e12335abaee9c99cbf45ba7b8a942d15e46f1e7e7080490556fd60a7f7beffe",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "b86158776fc9ed729d603ee35f8fe3c08e668d943ad5b2278510c96f44f6d8b4",
+  "candidate_id": "5dd00385a2b4ed5bbb01758ae626028f472321258badab72a9c5892788afa0e0",
   "default_snapshot": "build-26507141-c9f85a54326a",
   "entrypoints": {
     "biomes-resources": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
@@ -42,8 +42,8 @@
   },
   "external_articles": {
     "bytes": 616,
-    "path": "objects/bdd5fcd74d8cc01cd33a057439fba8256756ff1157375938e9d0ac2c9ed4f1d7.json",
-    "sha256": "bdd5fcd74d8cc01cd33a057439fba8256756ff1157375938e9d0ac2c9ed4f1d7"
+    "path": "objects/78f9f223790b6634e0cd3d652e48e0bda5119b3ff49dc1b13316d9718337748d.json",
+    "sha256": "78f9f223790b6634e0cd3d652e48e0bda5119b3ff49dc1b13316d9718337748d"
   },
   "features": [
     "shard-directories-v1",
@@ -115,7 +115,7 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700",
+  "release_id": "96ae38f0498340d7111d27a7f2ead19601b607554c2abc3ec196a68d6ce99e7b",
   "runtime": {
     "css": "runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
     "js": "runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"

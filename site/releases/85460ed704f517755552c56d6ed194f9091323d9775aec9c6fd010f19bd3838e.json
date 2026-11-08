@@ -1,0 +1,612 @@
+{
+  "availability": {
+    "app_id": "2393970",
+    "branch": "public",
+    "checked_at": "2026-10-08T03:11:05+00:00",
+    "contract": {
+      "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
+      "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
+    },
+    "observation": {
+      "app_id": "2393970",
+      "branch": "public",
+      "branch_updated_at_unix": 1791291574,
+      "build_id": "25752290",
+      "client_sha256": "88f791368cdb3a8c82b84d3ea53f25c18c33b425a0560d5a3f851bd709b35580",
+      "depot_manifests": {
+        "2393972": "2750557093100430881"
+      },
+      "response_sha256": "d8dfb13a2539534c9b6a63ac7a82da3d073211831c52011a79edc525f70deca1",
+      "source": "steamcmd-app-info",
+      "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
+    },
+    "schema_version": 1,
+    "status": "observed"
+  },
+  "candidate_id": "30f9d7285d309d981ed35fed01b60a9f3c090c7063c8308e17b1e46aea2c92da",
+  "default_snapshot": "build-25752290-072c9ca90af0",
+  "external_articles": {
+    "bytes": 616,
+    "path": "objects/dc65f514edc71c90580bd486af1d7edd259fec02fa4f6289c9058c151b5cee06.json",
+    "sha256": "dc65f514edc71c90580bd486af1d7edd259fec02fa4f6289c9058c151b5cee06"
+  },
+  "features": [
+    "shard-directories-v1",
+    "paged-captures-v1",
+    "entrypoint-rollover-v1"
+  ],
+  "fonts": {
+    "base": "https://rk-gamemods.github.io/HumanHost-Wiki/fonts/1c74f7181ca3cd93dd5d7a25cdeaabfa5d880870897df807964d45aa998c6256/",
+    "files": {
+      "Fraunces-Italic.woff2": {
+        "bytes": 42228,
+        "sha256": "f51349995e760cbc3e3d22fe85f7f04dcf2384ab09944535dddd700ace0e16ad"
+      },
+      "Fraunces.woff2": {
+        "bytes": 67304,
+        "sha256": "7234ed860a9cc83045413c4faee63c960a8f2d1917adcf728119307d56e0d783"
+      },
+      "Geist.woff2": {
+        "bytes": 29400,
+        "sha256": "19f9c92546aa300c312235e3125af1b81394d8db9a4bc4a425cd5b641d2d54e1"
+      },
+      "IBMPlexMono-Medium.woff2": {
+        "bytes": 14888,
+        "sha256": "01d285447409c8a588692162439a038b8cbd7871309ee20267b0d2d91c6e8e22"
+      },
+      "IBMPlexMono-Regular.woff2": {
+        "bytes": 14708,
+        "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+      },
+      "Newsreader-Italic.woff2": {
+        "bytes": 63292,
+        "sha256": "2bf0dbb1a4a052fffcc447bdab56b12049ee804a8a0d1ee04f5e76a6ab89166a"
+      },
+      "Newsreader.woff2": {
+        "bytes": 132000,
+        "sha256": "6e4f2958c3a7c4a80acde4e5a679abe7e01bc1e30b92be3c7a8b696ef401d101"
+      },
+      "OFL-fraunces.txt": {
+        "bytes": 4391,
+        "sha256": "bdf4c22802eaf804f998195871c6b8938aac2ac14b2d78a8bd66a6f1eced833b"
+      },
+      "OFL-geist.txt": {
+        "bytes": 4387,
+        "sha256": "1781d2806a07d91c4edf4740b88449fab7d0eadad53f7c351b94cd4d4eb8c00f"
+      },
+      "OFL-ibmplexmono.txt": {
+        "bytes": 4363,
+        "sha256": "37784b44044a4ffd9256702b7c0982c37e5c8887ba90c6dca0479aea93dc898d"
+      },
+      "OFL-newsreader.txt": {
+        "bytes": 4394,
+        "sha256": "fdfad38143ec470553cae82a1e45320bdd1b9ec70415d37bd0171051d8a4ded8"
+      },
+      "fonts.css": {
+        "bytes": 2568,
+        "sha256": "ded0eb9c18c52aff79690212f3e083061c34ef9ca4dfe9a22912254448c278a9"
+      }
+    }
+  },
+  "official_links": [
+    {
+      "title": "Human Host on Steam",
+      "url": "https://store.steampowered.com/app/2393970/Human_Host/"
+    },
+    {
+      "title": "Recognized community wiki",
+      "url": "https://wiki.nerdwerx.io/index.php/Human_Host:Main_Page"
+    }
+  ],
+  "project": "Unofficial Game Data Wiki for Human Host",
+  "publication": "prepared-git-release",
+  "release_id": "85460ed704f517755552c56d6ed194f9091323d9775aec9c6fd010f19bd3838e",
+  "runtime": {
+    "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
+    "js": "runtime/4c73c7ebeec6a74fb82bec88eeea434f70119d4f75cd3b74cbb42e71d0c7d9c9/reader.js"
+  },
+  "schema_version": 1,
+  "site": {
+    "about": "Site design data (ADR-0002 §7): topic short names, colours and home-map positions from study 11, and the guide order on the home page. Owned by design; the reader reads it through the hub configuration.",
+    "guides": [
+      "getting-started",
+      "progression-by-biome",
+      "choosing-a-weapon",
+      "crafting-stations"
+    ],
+    "home": {
+      "kicker": "The unofficial game data wiki",
+      "lede": "{records} records read straight from the game: items, recipes, creatures and the rules behind them. Start with a guide, search for something, or open a topic.",
+      "title": "Human Host, from the game's own files",
+      "try": [
+        "Crude Axe",
+        "M1891",
+        "Iron Ingot"
+      ]
+    },
+    "issues": {
+      "about": "Readers report problems through GitHub issue forms in the hub repository; the forms are presentation/issue-templates/*.yml.",
+      "accuracy": "https://github.com/rk-gamemods/HumanHost-Wiki/issues/new?template=accuracy.yml",
+      "choose": "https://github.com/rk-gamemods/HumanHost-Wiki/issues/new/choose"
+    },
+    "schema_version": 1,
+    "topics": {
+      "biomes-resources": {
+        "color": "#5b8c5a",
+        "map": [
+          0.84,
+          0.8
+        ],
+        "short": "Biomes"
+      },
+      "combat": {
+        "color": "#8e2c48",
+        "map": [
+          0.55,
+          0.3
+        ],
+        "short": "Combat"
+      },
+      "construction": {
+        "color": "#8c6d46",
+        "map": [
+          0.14,
+          0.84
+        ],
+        "short": "Construction"
+      },
+      "crafting-processing": {
+        "color": "#c9a227",
+        "map": [
+          0.28,
+          0.58
+        ],
+        "short": "Crafting"
+      },
+      "creatures-ai": {
+        "color": "#4f7a8a",
+        "map": [
+          0.76,
+          0.16
+        ],
+        "short": "Creatures"
+      },
+      "hub": {
+        "color": "#1a1a1a",
+        "map": null,
+        "short": "Guides"
+      },
+      "items-equipment": {
+        "color": "#b83a0b",
+        "map": [
+          0.16,
+          0.3
+        ],
+        "short": "Items"
+      },
+      "loot-acquisition": {
+        "color": "#e08e45",
+        "map": [
+          0.36,
+          0.14
+        ],
+        "short": "Loot"
+      },
+      "skills-survival": {
+        "color": "#6c5b9e",
+        "map": [
+          0.64,
+          0.7
+        ],
+        "short": "Survival"
+      },
+      "spawning-populations": {
+        "color": "#b6668f",
+        "map": [
+          0.86,
+          0.44
+        ],
+        "short": "Spawning"
+      },
+      "technical-reference": {
+        "color": "#9aa0a6",
+        "map": [
+          0.48,
+          0.55
+        ],
+        "short": "Game files"
+      },
+      "vehicles": {
+        "color": "#3a3a3a",
+        "map": [
+          0.44,
+          0.88
+        ],
+        "short": "Vehicles"
+      },
+      "world-systems": {
+        "color": "#0b6f80",
+        "map": [
+          0.9,
+          0.08
+        ],
+        "short": "World"
+      }
+    },
+    "typography": "current"
+  },
+  "snapshots": {
+    "build-25548639-0bf00fe33781": {
+      "bytes": 97853,
+      "path": "objects/e77d6552a534cd56c853fcb8da1d658a6923bff500766051f8f6bd3a59ef531c.json",
+      "sha256": "e77d6552a534cd56c853fcb8da1d658a6923bff500766051f8f6bd3a59ef531c"
+    },
+    "build-25548639-1080b929da89": {
+      "bytes": 102891,
+      "path": "objects/bbdf894cc10b52c815daa3bec2b6e2c233f5586dfc90b729cb4db1ec66e63acb.json",
+      "sha256": "bbdf894cc10b52c815daa3bec2b6e2c233f5586dfc90b729cb4db1ec66e63acb"
+    },
+    "build-25548639-8f1263c7d28f": {
+      "bytes": 25067,
+      "path": "objects/778ddcc6a0371b64ce9b8facf4a95b975a7e6b3398ab4b8fb6d4eaff05df2607.json",
+      "sha256": "778ddcc6a0371b64ce9b8facf4a95b975a7e6b3398ab4b8fb6d4eaff05df2607"
+    },
+    "build-25548639-a7d9406a5bfb": {
+      "bytes": 25067,
+      "path": "objects/3fe3060019a184cba2d6cf7ae1cd4646cc74a49f47694c1eb64d5bc3148d6d7b.json",
+      "sha256": "3fe3060019a184cba2d6cf7ae1cd4646cc74a49f47694c1eb64d5bc3148d6d7b"
+    },
+    "build-25587699-a399133f7ca4": {
+      "bytes": 103561,
+      "path": "objects/abb2d419eac5bb48a83f5c2bd9647fbaa161de3c21c47735efe2b1a4a099cc49.json",
+      "sha256": "abb2d419eac5bb48a83f5c2bd9647fbaa161de3c21c47735efe2b1a4a099cc49"
+    },
+    "build-25606549-f1e8b4a4a8b8": {
+      "bytes": 103901,
+      "path": "objects/621d38972b7f09c6b65d86ab76f07c15231611f97cc702c1d2a98576ca29e7b6.json",
+      "sha256": "621d38972b7f09c6b65d86ab76f07c15231611f97cc702c1d2a98576ca29e7b6"
+    },
+    "build-25675256-8764ea7be0f8": {
+      "bytes": 103898,
+      "path": "objects/6491b6476dbe94770536f677a79c0951307c10a6da9722c3dab365f954ef3fff.json",
+      "sha256": "6491b6476dbe94770536f677a79c0951307c10a6da9722c3dab365f954ef3fff"
+    },
+    "build-25712240-d7c49874ae12": {
+      "bytes": 105239,
+      "path": "objects/c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49.json",
+      "sha256": "c1e718ef9fc322bbb4552ec73f73496224d93a300bf792baf7b2901817666f49"
+    },
+    "build-25752290-072c9ca90af0": {
+      "bytes": 105572,
+      "path": "objects/b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b.json",
+      "sha256": "b681842c763a9f34357cbae39b184bd513e9e170ef9664bba1bbcf0aede12e8b"
+    }
+  },
+  "topic": "world-systems",
+  "topics": [
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki/",
+      "coverage": "Topic overview, curated guides, version selection, coverage and release history",
+      "id": "hub",
+      "title": "Start here"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Items/",
+      "coverage": "All known items, weapons, armor, tools, consumables, materials and their properties",
+      "id": "items-equipment",
+      "title": "Items and equipment"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Loot/",
+      "coverage": "Loot eligibility, tables, containers, drops, acquisition conditions and source-to-item relationships",
+      "id": "loot-acquisition",
+      "title": "Loot and acquisition"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Crafting/",
+      "coverage": "Recipes, ingredients, workbenches, processing, repairs and disassembly",
+      "id": "crafting-processing",
+      "title": "Crafting and processing"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Combat/",
+      "coverage": "Damage calculations, armor interactions, body-part effects and weapon mechanics",
+      "id": "combat",
+      "title": "Combat"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Creatures/",
+      "coverage": "Creature variants, perception, movement, targeting and attacks",
+      "id": "creatures-ai",
+      "title": "Creatures and AI"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Spawning/",
+      "coverage": "Spawn rules, population groups, distances, despawning and cleanup",
+      "id": "spawning-populations",
+      "title": "Spawning and populations"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Survival/",
+      "coverage": "Progression, buffs, health, stamina, hunger, thirst and status effects",
+      "id": "skills-survival",
+      "title": "Skills and survival"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Biomes/",
+      "coverage": "Regional resources, items, creatures and loot; unique or exclusive occurrences only where verified",
+      "id": "biomes-resources",
+      "title": "Biomes and resources"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Construction/",
+      "coverage": "Building pieces, materials, durability, destruction and structural relationships",
+      "id": "construction",
+      "title": "Construction"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Vehicles/",
+      "coverage": "Vehicle families, parts, assembly, controls and operating mechanics",
+      "id": "vehicles",
+      "title": "Vehicles"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-World/",
+      "coverage": "Weather, time, environmental conditions and world organization",
+      "id": "world-systems",
+      "title": "World systems"
+    },
+    {
+      "base": "https://rk-gamemods.github.io/HumanHost-Wiki-Technical/",
+      "coverage": "Every asset identity, component types, configuration fields, tags, layers and visible coverage gaps",
+      "id": "technical-reference",
+      "title": "Game files"
+    }
+  ],
+  "versions": [
+    {
+      "build_id": "25752290",
+      "game_version": "0.8.319",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "cdcbb8d5cd79aaf590c28e3e33a7d3656ab1be7d2a717b4607a69cdb762967bd",
+      "observations": 27283,
+      "snapshot_id": "build-25752290-072c9ca90af0"
+    },
+    {
+      "build_id": "25712240",
+      "game_version": "0.8.3182",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "27b1e739058de950b67872e6783eeaa5c3c872e11e1dcf073fca21bc1d9827a1",
+      "observations": 27283,
+      "snapshot_id": "build-25712240-d7c49874ae12"
+    },
+    {
+      "build_id": "25675256",
+      "game_version": "0.8.318",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "23d4524096cae8433d4326451537395e8b8954cce620cc10c3b26f3579a44ba4",
+      "observations": 27274,
+      "snapshot_id": "build-25675256-8764ea7be0f8"
+    },
+    {
+      "build_id": "25606549",
+      "game_version": "0.8.316",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "inactive"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "bf40b37c053c28a1b1b623e0ad756928de048eab62343aef19f3f1e09ac93a71",
+      "observations": 27273,
+      "snapshot_id": "build-25606549-f1e8b4a4a8b8"
+    },
+    {
+      "build_id": "25587699",
+      "game_version": "0.8.316",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "manager-object-missing"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "3e1a9c3e28254e28d37010c955af3af42259f7cc445ba0ccb26ac969ab4ff0e4",
+      "observations": 27273,
+      "snapshot_id": "build-25587699-a399133f7ca4"
+    },
+    {
+      "build_id": "25548639",
+      "game_version": "0.8.315",
+      "guides": {
+        "count": 4,
+        "dropped_links": 0,
+        "errors": [],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "manager-object-missing"
+          }
+        },
+        "other_scenery": [
+          "terra block"
+        ]
+      },
+      "identity_run": "ec92c7f62b105018cc6be206c11c7bad3d467cf3499c6432eb1e069f78e7a1c9",
+      "observations": 27273,
+      "snapshot_id": "build-25548639-1080b929da89"
+    },
+    {
+      "build_id": "25548639",
+      "game_version": "0.8.315",
+      "guides": {
+        "count": 3,
+        "dropped_links": 0,
+        "errors": [
+          {
+            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
+            "id": "choosing-a-weapon"
+          }
+        ],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "manager-object-missing"
+          }
+        },
+        "other_scenery": [
+          "terra block",
+          "torch build"
+        ]
+      },
+      "identity_run": "18035d0ec8ccb989e8acaa62068acafc79b47f6990beb5dd8b8b7613580e536a",
+      "observations": 25363,
+      "snapshot_id": "build-25548639-0bf00fe33781"
+    },
+    {
+      "build_id": "25548639",
+      "game_version": null,
+      "guides": {
+        "count": 0,
+        "dropped_links": 0,
+        "errors": [
+          {
+            "error": "guide getting-started section first-materials block 1 (sentence): required query returned no content",
+            "id": "getting-started"
+          },
+          {
+            "error": "guide progression-by-biome section how-the-world-is-laid-out block 0 (sentence): required query returned no content",
+            "id": "progression-by-biome"
+          },
+          {
+            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
+            "id": "choosing-a-weapon"
+          },
+          {
+            "error": "guide crafting-stations section bench-0 block 0 (sentence): required query returned no content",
+            "id": "crafting-stations"
+          }
+        ],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "manager-object-missing"
+          }
+        },
+        "other_scenery": [
+          "terra block",
+          "torch build",
+          "vine monstera",
+          "weed apo"
+        ]
+      },
+      "identity_run": "b33496da03b7d2bfe99ad740948273ccd153aeff2295b9a39029a703f4d64ca3",
+      "observations": 8146,
+      "snapshot_id": "build-25548639-a7d9406a5bfb"
+    },
+    {
+      "build_id": "25548639",
+      "game_version": null,
+      "guides": {
+        "count": 0,
+        "dropped_links": 0,
+        "errors": [
+          {
+            "error": "guide getting-started section first-materials block 1 (sentence): required query returned no content",
+            "id": "getting-started"
+          },
+          {
+            "error": "guide progression-by-biome section how-the-world-is-laid-out block 0 (sentence): required query returned no content",
+            "id": "progression-by-biome"
+          },
+          {
+            "error": "guide choosing-a-weapon section guns block 1 (list): required query returned no content",
+            "id": "choosing-a-weapon"
+          },
+          {
+            "error": "guide crafting-stations section bench-0 block 0 (sentence): required query returned no content",
+            "id": "crafting-stations"
+          }
+        ],
+        "features": {
+          "merchants": {
+            "live": false,
+            "manager_object": "Merchant_Mgr",
+            "status": "manager-object-missing"
+          }
+        },
+        "other_scenery": [
+          "terra block",
+          "torch build",
+          "vine monstera",
+          "weed apo"
+        ]
+      },
+      "identity_run": "91eb19d01f48591ff3b201ff7b3842a175e6cf49d42e92510d2644771c6071e0",
+      "observations": 8146,
+      "snapshot_id": "build-25548639-8f1263c7d28f"
+    }
+  ]
+}
